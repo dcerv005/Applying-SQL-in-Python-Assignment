@@ -1,0 +1,1 @@
+Applying SQL in Python Assignment. Here we are using python to modify tables in the SQL Workbench.
