@@ -5,7 +5,7 @@ def connect_database():
    
     db_name = 'fitness_center_db'
     user = 'root'
-    password = 'Dc418289!'
+    password = 'my_root_password'
     host= 'localhost'
 
 
